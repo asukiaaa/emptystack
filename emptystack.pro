@@ -39,7 +39,7 @@ LabSize=60
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=bbstack-rescue
+LibName1=emptystack-rescue
 LibName2=power
 LibName3=device
 LibName4=transistors

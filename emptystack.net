@@ -1,17 +1,17 @@
 (export (version D)
   (design
-    (source /home/asuki/kicad/bbstack/bbstack.sch)
+    (source /home/asuki/kicad/emptystack/emptystack.sch)
     (date "2017年04月28日 23時13分06秒")
     (tool "Eeschema 4.0.6-e0-6349~52~ubuntu16.10.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
-        (title Bbstack)
+        (title EmptyStack)
         (company)
         (rev 1.1)
         (date 2017-04-28)
-        (source bbstack.sch)
+        (source emptystack.sch)
         (comment (number 1) (value "by asukiaaa"))
-        (comment (number 2) (value github.com/asukiaaa/bbstack))
+        (comment (number 2) (value github.com/asukiaaa/emptystack))
         (comment (number 3) (value ""))
         (comment (number 4) (value "")))))
   (components
